@@ -57,3 +57,13 @@ Detailed analysis in the code attached in folder.
 - Business Insight Generation
 - power bi Dashboard Development
 - Problem Solving
+
+
+ Tools & Technologies :
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
