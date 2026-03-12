@@ -68,4 +68,4 @@ Detailed analysis in the code attached in folder.
 - Seaborn
 - Jupyter Notebook
 - Power bi
-- SQL 
+- SQL server
