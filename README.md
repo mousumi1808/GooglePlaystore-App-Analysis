@@ -67,3 +67,5 @@ Detailed analysis in the code attached in folder.
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Power bi
+- SQL 
